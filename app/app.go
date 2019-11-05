@@ -11,6 +11,7 @@ func regRoutes(routes *gin.Engine) {
 			"status": "up",
 		})
 	})
+	
 }
 
 
